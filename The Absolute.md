@@ -1,0 +1,4 @@
+
+
+The absolute is to be considered merely from the temporal - being speaks of being and nothing else.  Coherent form in temporal being creates antinomical incoherence in the supernal. Absolute knowledge in its domain of God is a self contradiction, as oneness includes no distance from which to separate itself from itself reflectively to know. To know [[Epistemic - Knowing]] is to work within the domain of the delineating process - unity by its nature has no space for delineation, and therefore knowledge cannot be considered to adequately have a referent in the absolute. Thus, to speak of the supernal we "must know the Father only through the Son".  The Son being the resultant relation of the intermingling of the mundane and supernal. It is therefore and by virtue of the structure of knowing [[Epistemic - Knowing]] that the constitution of the absolute can be approached.  
+

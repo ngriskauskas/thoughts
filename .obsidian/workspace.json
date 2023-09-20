@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "26f0b897f9defdeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f527f7a3d29622a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d417acb794032e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ade54665d804c88",
+    "type": "split",
+    "children": [
+      {
+        "id": "55c5edbb0bcb56d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb20a3ee12650db1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "f3be18a98e537f01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10a720cb067ede75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "b5b1189c81ff2186",
+    "type": "split",
+    "children": [
+      {
+        "id": "b44476ba78d34604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a104c1f492099b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "001d8a5dd410e63e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4f85a906c3184ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de1f7c7e1584d477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6d417acb794032e6",
+  "lastOpenFiles": [
+    "Form/Subject-Object.md",
+    "Form/Kabbalah/Daath.md",
+    "Form/Kabbalah/Hod.md",
+    "Form/Glossary.md",
+    "Form/Kabbalah/Tree of Life.md",
+    "Form/Spirit/Reincarnation.md",
+    "Form/Meanderings.md",
+    "Form/Kabbalah/Binah.md",
+    "Form/Interchangeability of Perspective.md",
+    "Form/Kabbalah/Malkuth.md",
+    "Form/Kabbalah/Yesod.md",
+    "Form/Metaphysics - Being as Such.md",
+    "Form/Kabbalah/Kether.md",
+    "Form/Epistemic - Knowing.md",
+    "Form/The Absolute.md",
+    "Form/Operation of the Psyche.md",
+    "Form/Kabbalah/Netzach.md",
+    "Form/Kabbalah/Chesed.md",
+    "Form/Kabbalah/Geburah.md",
+    "Form/Kabbalah/Tiphareth.md",
+    "Form/Kabbalah",
+    "Form/Ethics - Value of Being.md",
+    "Form/Untitled.canvas",
+    "Form/Spirit",
+    "Form/Outline.md",
+    "Form/Movement of Being.md",
+    "Form/Consciousness - Locality in Being.md",
+    "Personal/Black Mirror.md",
+    "Form",
+    "Untitled.canvas",
+    "Personal/White Mirror.md",
+    "Personal",
+    "asdf/Untitled/Untitled/Untitled/Untitled",
+    "asdf/Untitled/Untitled/Untitled",
+    "asdf/Untitled/Untitled",
+    "asdf/Untitled",
+    "asdf"
+  ]
+}
