@@ -11,11 +11,28 @@
             "id": "6d417acb794032e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kabbalah/Malkuth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "960f36506c37b58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kabbalah/Brain in a Vat (Mind-Body Problem).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kabbalah/Brain in a Vat (Mind-Body Problem).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kabbalah/Brain in a Vat (Mind-Body Problem).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kabbalah/Brain in a Vat (Mind-Body Problem).md"
+              }
             }
           }
         ]
@@ -138,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d417acb794032e6",
+  "active": "960f36506c37b58d",
   "lastOpenFiles": [
+    "Kabbalah/Malkuth.md",
+    "Kabbalah/Brain in a Vat (Mind-Body Problem).md",
+    "Kabbalah/Tree of Life.md",
+    "Movement of Being.md",
     "Form/Subject-Object.md",
     "Form/Kabbalah/Daath.md",
     "Form/Kabbalah/Hod.md",
@@ -165,12 +190,8 @@
     "Form/Untitled.canvas",
     "Form/Spirit",
     "Form/Outline.md",
-    "Form/Movement of Being.md",
-    "Form/Consciousness - Locality in Being.md",
-    "Personal/Black Mirror.md",
     "Form",
     "Untitled.canvas",
-    "Personal/White Mirror.md",
     "Personal",
     "asdf/Untitled/Untitled/Untitled/Untitled",
     "asdf/Untitled/Untitled/Untitled",
