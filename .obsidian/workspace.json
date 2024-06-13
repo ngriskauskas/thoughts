@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f527f7a3d29622a6",
+        "id": "0d86e00af77d8cd3",
         "type": "tabs",
         "children": [
           {
-            "id": "6d417acb794032e6",
+            "id": "553b5770ad336bba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kabbalah/Malkuth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "960f36506c37b58d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kabbalah/Brain in a Vat (Mind-Body Problem).md",
+                "file": "Meanderings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Aren't",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 371.5
   },
   "right": {
     "id": "b5b1189c81ff2186",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kabbalah/Brain in a Vat (Mind-Body Problem).md",
+                "file": "Meanderings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kabbalah/Brain in a Vat (Mind-Body Problem).md",
+                "file": "Meanderings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kabbalah/Brain in a Vat (Mind-Body Problem).md"
+                "file": "Meanderings.md"
               }
             }
           }
@@ -159,37 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "960f36506c37b58d",
+  "active": "553b5770ad336bba",
   "lastOpenFiles": [
-    "Kabbalah/Malkuth.md",
-    "Kabbalah/Brain in a Vat (Mind-Body Problem).md",
-    "Kabbalah/Tree of Life.md",
+    "More Subject-Object.md",
+    "Untitled 1.md",
+    "On Intelligence, Creativity, and Consciousness.md",
+    "Value Heirarchy.md",
+    "Ethics - Value of Being.md",
+    "Consciousness - Locality in Being.md",
+    "Metaphysics - Being as Such.md",
+    "Operation of the Psyche.md",
+    "Interchangeability of Perspective.md",
+    "Death and Archetypes.md",
+    "MBTI Stuff.md",
     "Movement of Being.md",
-    "Form/Subject-Object.md",
-    "Form/Kabbalah/Daath.md",
-    "Form/Kabbalah/Hod.md",
-    "Form/Glossary.md",
-    "Form/Kabbalah/Tree of Life.md",
-    "Form/Spirit/Reincarnation.md",
-    "Form/Meanderings.md",
-    "Form/Kabbalah/Binah.md",
-    "Form/Interchangeability of Perspective.md",
-    "Form/Kabbalah/Malkuth.md",
-    "Form/Kabbalah/Yesod.md",
-    "Form/Metaphysics - Being as Such.md",
-    "Form/Kabbalah/Kether.md",
-    "Form/Epistemic - Knowing.md",
-    "Form/The Absolute.md",
-    "Form/Operation of the Psyche.md",
-    "Form/Kabbalah/Netzach.md",
-    "Form/Kabbalah/Chesed.md",
-    "Form/Kabbalah/Geburah.md",
-    "Form/Kabbalah/Tiphareth.md",
+    "Invocation of Highest.md",
+    "Outline.md",
+    "Glossary.md",
+    "Epistemic - Knowing.md",
+    "Meanderings.md",
+    "Untitled.md",
+    "Ritual Structure.md",
+    "Spirit/Reincarnation.md",
+    "Archetypal Forms.md",
+    "The Absolute.md",
+    "Subject-Object.md",
+    "Brain in a Vat (Mind-Body Problem).md",
+    "Kabbalah/Tree of Life.md",
+    "Speculative",
+    "Kabbalah/Malkuth.md",
     "Form/Kabbalah",
-    "Form/Ethics - Value of Being.md",
     "Form/Untitled.canvas",
     "Form/Spirit",
-    "Form/Outline.md",
     "Form",
     "Untitled.canvas",
     "Personal",
